@@ -1,3 +1,4 @@
+![Maksim Belogurov](photo.png)
 ## Maksim Belogurov
 E-mail: maxbelogurov@gmail.com
 
