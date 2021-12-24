@@ -11,26 +11,26 @@ Address: Russia, Kaliningrad
 
 ---
 ### Summary
-Frontend разработчик с хорошим опытом работы в верстке сайтов и настройке CMS.
+Frontend developer with good experience in website layout and CMS setup.
 
 
-Создал собственную студию по разработке WEB сайтов и обслуживанию корпоративных клиентов в направлении системного администрирования и обслуживания техники.
+I had my own small company that developed websites and making corporate clients service in system administration and equipment maintenance.
 
 
-Умею работать с большим объемом данных, быстро обучаюсь. Имею хороший опыт общения с заказчиком, ответственен в сроках выполнения и соблюдении требований.
+I know how to work with large amount of data, can learn quickly. I have a good experience in keeping good relations and communications with customers and also, I’m responsible for deadlines and requirements accordance.
 
 
-В настоящее время активно изучаю JavaScript для построения полноценных SPA.
+I am currently actively studying JavaScript to build a full-fledged SPA.
 
 
 ---
-### Skill
+### Skills
 * HTML / CSS
 * CMS Битрикс, OpenCart, Joomla
 * Photoshop, Corel Draw
-* работа с клиентом
-* управление проектами
-* постановка задач команде
+* working with the client
+* projects management
+* setting tasks for the team
 
 ---
 ### Code example
@@ -44,67 +44,67 @@ function multiply (a, b){
 
 ```
 ---
-### Experience
-#### Индивидуальный предприниматель | 06.2017 – по настоящее время
-*Web студия*
+### Work experience
+#### Entrepreneur | 06.2017 - present
+*Web studio*
 
 
-Разработка и обслуживание сайтов
+Website development and maintenance company
 
 
-* **Работа с заказчиком**
-    - Поиск заказчиков;
-    - Обсуждение проекта, постановка задач, составление технического задания, запуск проекта в работу;
-    - Последующее сопровождение.
-* **Разработка сайтов**
-    - Отрисовка дизайна, верстка шаблона под разные CMS. Корректировка и добавление функционала CMS под требования проекта;
-    - Подготовка базы 1С для экспорта товаров в интернет-магазины на CMS Битрикс и OpenCart;
-    - Техническая и SEO оптимизация сайтов для поисковых систем. Продвижение сайтов.
+* **Working with the customer**
+    - Search for new customers;
+    - Discuss project requirements, decomposition project to tasks, drafting technical specifications, launching the project;
+    - Follow-up support.
+* **Website development**
+    - Render design, layout templates for different CMS. Adjusting and adding CMS functionality to the project requirements;
+    - Preparation of the 1C database for exporting goods to online stores on 1C-Bitrix and OpenCart CMS;
+    - Technical and SEO optimization of websites for search engines. Website promotion.
 
 
-**Стек:** Битрикс, Joomla, OpenCart, HTML5, CSS3, PHP5, JavaScript, Photoshop, Corel Draw.
+**Stack:** 1C-Bitrix, Joomla, OpenCart, HTML5, CSS3, PHP5, JavaScript, Photoshop, Corel Draw.
 
 
-**Работы:** [profi.express](https://profi.express) / [mdecor.ru](https://mdecor.ru) / [baltikuniversal.ru](https://baltikuniversal.ru) / [sacla.ru](https://sacla.ru) / [de-vintage.ru](https://de-vintage.ru) / [ergode.ru](https://ergode.ru)
+**Portfolio:** [profi.express](https://profi.express) / [mdecor.ru](https://mdecor.ru) / [baltikuniversal.ru](https://baltikuniversal.ru) / [sacla.ru](https://sacla.ru) / [de-vintage.ru](https://de-vintage.ru) / [ergode.ru](https://ergode.ru)
 
 
-#### Технический директор | GM Synergy | 04.2018 – 12.2018
-Разработка проектной документации для Экономической блокчейн-стратегии на основе реального майнинга. Проект был создан небольшим дружным коллективом.
-* Разработка решения и roadmap проекта;
-* Дизайн платформы;
-* Финансовый план и расчёты;
-* Маркетинговый план;
-* Подготовка документов для инвестиций.
+#### CTO | GM Synergy | 04.2018 – 12.2018
+Development of project documentation for an Economic blockchain strategy based on real mining. The project was created by a small friendly team.
+* Solutions and roadmap development for the project;
+* Platform design;
+* Financial plan and calculations;
+* Marketing plan;
+* Documents preparation for investments.
 
 
-#### Администратор компьютерной сети | ООО СП «Балтдормостстрой» | 04.2014 – 05.2018
-Обслуживание серверов, компьютеров и локальной сети компании. Отучился на сертификат Mikrotik MTCNA и перенастроил всю сеть на оборудование Mikrotik. С 2017 по 2020 взял компанию на обслуживание через ИП и параллельно начал заниматься разработкой сайтов.
+#### Computer network administrator | LLC JV "Baltdormoststroy" | 04.2014 – 05.2018
+Maintenance of servers, computers and the company's local network. Graduated from the Mikrotik MTCNA certificate and reconfigured the entire network to Mikrotik equipment. From 2017 to 2020, took the company for maintenance through the sole proprietor and simultaneously began developing websites. 
 
 
-Администрирование серверного и сетевого оборудования
-* Обслуживание серверов на базе Windows Server 2003, 2008, 2012R2;
-* Обслуживание Microsoft SQL для 1с КА;
-* Виртуализация серверов Hyper-V;
-* настройка и поддержка локальной сети на маршрутизаторах Mikrotik;
-* обслуживание орг. техники.
+Administration of server and network equipment
+* Maintenance of servers based on Windows Server 2003, 2008, 2012R2;
+* Microsoft SQL maintenance for 1c KA;
+* Virtualization of Hyper-V servers;
+* Setup and support the local network based on Mikrotik routers;
+* Office equipment maintenance.
 
 
-Одновременно обслуживал 4 организаций. Две из них строительные компании: 70+ сотрудников, 3 офиса, 2 асфальтобетонных завода, 2 ремонтные базы, 1 бетонный узел, 1 завод бетонных изделий – всё это работало в единой системе с общими серверами.
+Simultaneously served 4 organizations, two of them are construction companies: 70+ employees, 3 offices, 2 asphalt concrete plants, 2 repair bases, 1 concrete node, 1 plant of concrete products - all this worked in a single system with common servers.
 
 
-#### Разработчик сайтов | ООО «ИТС» | 05.2011 – 02.2014
-*Разработка сайтов государственных учреждений. Верстка сайтов. Добавление материалов на сайты. Резервное копирование сайтов. Регистрация и продление доменов.*
+#### Website Developer | ITS LLC | 05.2011 – 02.2014
+*Development of websites of state institutions. Website layout. Adding materials to websites. Backup sites. Registration and renewal of domains.*
 
 
-#### Техник по ремонту ПК | ООО «Росинтеграл» | 05.2010 – 04.2011
-*Ремонт компьютеров, заправка картриджей, обслуживание ККМ.*
+#### PC repair technician | LLC "Rosintegral" | 05.2010 – 04.2011
+*Computer repair, cartridge refilling, KKM maintenance.*
 
 
 ---
 ### Education
-#### 2007 – 2012 | Балтийский федеральный университет имени Иммануила Канта
-Специальность: Организация перевозок и управление на транспорте.
+#### 2007 – 2012 | Immanuel Kant Baltic Federal University
+Specialty: Transportation organization and Transport Management.
 
 
-#### 2005 – 2009 | Государственное образовательное учреждение среднего профессионального образования Калининградский технический колледж.
-Специальность: Техническое обслуживание средств вычислительной техники и компьютерных сетей.
+#### 2005 – 2009 | / State educational institution of secondary vocational education Kaliningrad Technical College
+Specialty: Maintenance of computer equipment and computer networks.
