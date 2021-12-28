@@ -1,4 +1,55 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+:root {
+    --text-color:#333;
+    --title-color:rgb(48,63,75);
+}
+.body-flex {
+    margin: 0 auto;
+    display: flex;
+    flex-direction:column;
+    width: 1200px;
+    color:var(--text-color);
+    font-size:20px;
+}
+.body-flex__child {
+    height: auto;
+    padding: 20px;
+}
+/* -------------------------------- HEADER -------------------------------- */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.page-title__name {
+    color: var(--title-color);
+    font-size:2em;
+}
+.page-photo {
+    background: linear-gradient(45deg, #683580, #3e6ba0);
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.page-photo__image {
+    border-radius: 50%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px
+}
+/* -------------------------------- NAV -------------------------------- */
+.nav {
+    background-color: blueviolet;
+}
+/* -------------------------------- MAIN -------------------------------- */
+.main {
+    background-color: cadetblue;
+}
+/* -------------------------------- FOOTER -------------------------------- */
+.footer {
+    background-color: darkblue;
 }
