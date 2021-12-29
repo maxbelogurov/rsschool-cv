@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Maksim Belogurov CV</title>
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,8 +17,8 @@
             <h1 class="page-title__name">Maksim Belogurov</h1>
             <p class="page-title__text">Front-End developer</p>
             <div class="contacts">
-                <div class="contacts__box header-phone">+79097777307</div>
-                <div class="contacts__box header-email">maxbelogurov@gmail.com</div>
+                <div class="contacts__box header-telegram"><a href="https://t.me/maxbelogurov">t.me/maxbelogurov</a></div>
+                <div class="contacts__box header-email"><a href="mailto:maxbelogurov@gmail.com">maxbelogurov@gmail.com</a></div>
                 <div class="contacts__box header-map">Russia, Kaliningrad</div>
             </div>
         </div>
@@ -27,6 +27,9 @@
         </div>
     </header>
     <nav class="nav body-flex__child">
+        <div class="nav-burger">
+            <img class="nav-burger__svg" src="images/burger.svg" alt="Mobile menu">
+        </div>
         <ul class="nav-list">
             <li class="nav-item">
                 <a href="#summary" class="nav-link">Summary</a>
@@ -85,7 +88,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;
                     <span class="code-blue">window</span><span class="code-orange">.</span><span class="code-blue">scrollTo</span>(<span class="code-orange">0</span><span class="code-peach">,</span> <span class="code-blue">parseInt</span>(scrollY <span class="code-orange">||</span> <span class="code-aqua">'</span><span class="code-green">0</span><span class="code-aqua">'</span>) <span class="code-orange">* -1</span>)<span class="code-peach">;</span><br>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-                    <span class="code-blue">document</span><span class="code-orange">.</span><span class="code-blue">getElementById</span>(<span class="code-aqua">'</span><span class="code-green">loginForm</span><span class="code-aqua">'</span>)<span class="code-orange">.</span>classList<span class="code-orange">.</span><span class="code-blue">remove</span>(<span class="code-aqua">'</span><span class="code-green">active</span><span class="code-aqua">'</span>)<span class="code-peach">;</span><br>
+                    <span class="code-blue">document</span><span class="code-orange">.</span><span class="code-blue">getElementById</span>(<span class="code-aqua">'</span><span class="code-green">loginForm</span><span class="code-aqua">'</span>)<span class="code-orange"><wbr>.</span>classList<span class="code-orange">.</span><span class="code-blue">remove</span>(<span class="code-aqua">'</span><span class="code-green">active</span><span class="code-aqua">'</span>)<span class="code-peach">;</span><br>
                     }
                 </div>
             </div>
