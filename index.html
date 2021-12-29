@@ -58,32 +58,38 @@
                 <p>I am currently actively studying JavaScript to build a full-fledged SPA.</p>
             </div>
         </section>
-        <div class="flex-row">
-            <section class="skills main-section">
-                <h2 id="skills" class="main-section__title">Skills</h2>
-                <div class="main-section__text">
-                    <ul>
-                        <li>HTML / CSS</li>
-                        <li>CMS 1C-Bitrix, OpenCart, Joomla</li>
-                        <li>Photoshop, Corel Draw</li>
-                        <li>working with the client</li>
-                        <li>projects management</li>
-                        <li>setting tasks for the team</li>
-                    </ul>
+        <section class="skills main-section">
+            <h2 id="skills" class="main-section__title">Skills</h2>
+            <div class="main-section__text">
+                <ul>
+                    <li>HTML / CSS</li>
+                    <li>CMS 1C-Bitrix, OpenCart, Joomla</li>
+                    <li>Photoshop, Corel Draw</li>
+                    <li>working with the client</li>
+                    <li>projects management</li>
+                    <li>setting tasks for the team</li>
+                </ul>
+            </div>
+        </section>
+        <section class="code main-section">
+            <h2 id="code" class="main-section__title">Code example</h2>
+            <div class="main-section__text">
+                <div class="code-box">
+                    <span class="code-violet">const</span> <span class="code-aqua">closeModal</span> <span class="code-orange">=</span> () <span class="code-violet">=></span> {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="code-violet">const</span> body <span class="code-orange">=</span> <span class="code-blue">document</span><span class="code-orange">.</span>body<span class="code-peach">;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="code-violet">const</span> scrollY <span class="code-orange">=</span> body<span class="code-orange">.</span>style<span class="code-orange">.</span>top<span class="code-peach">;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    body<span class="code-orange">.</span>style<span class="code-orange">.</span>position <span class="code-orange">=</span> <span class="code-aqua">''</span><span class="code-peach">;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="code-blue">window</span><span class="code-orange">.</span><span class="code-blue">scrollTo</span>(<span class="code-orange">0</span><span class="code-peach">,</span> <span class="code-blue">parseInt</span>(scrollY <span class="code-orange">||</span> <span class="code-aqua">'</span><span class="code-green">0</span><span class="code-aqua">'</span>) <span class="code-orange">* -1</span>)<span class="code-peach">;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="code-blue">document</span><span class="code-orange">.</span><span class="code-blue">getElementById</span>(<span class="code-aqua">'</span><span class="code-green">loginForm</span><span class="code-aqua">'</span>)<span class="code-orange">.</span>classList<span class="code-orange">.</span><span class="code-blue">remove</span>(<span class="code-aqua">'</span><span class="code-green">active</span><span class="code-aqua">'</span>)<span class="code-peach">;</span><br>
+                    }
                 </div>
-            </section>
-            <section class="code main-section">
-                <h2 id="code" class="main-section__title">Code example</h2>
-                <div class="main-section__text">
-                    <div class="code-box">
-                        function multiply (a, b) {<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;    var result = a * b;<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;return result;<br>
-                        }
-                    </div>
-                </div>
-            </section>
-        </div>
+            </div>
+        </section>
         <section class="experience main-section">
             <h2 id="experience" class="main-section__title">Work experience</h2>
             <div class="main-section__text">
