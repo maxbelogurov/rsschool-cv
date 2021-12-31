@@ -96,7 +96,7 @@ ul {
     background-image: url(images/map.svg);
 }
 /* -------------------------------- NAV -------------------------------- */
-.nav {
+/* .nav {
     padding: 0 1rem;
 }
 .nav-burger {
@@ -106,7 +106,7 @@ ul {
 }
 .nav-burger__svg {
     height: 20px;
-}
+} */
 .nav-list {
     display: flex;
     list-style: none;
@@ -197,9 +197,6 @@ ul {
     .contacts {
         flex-direction: column;
     }
-    .nav-list {
-        flex-direction: column;
-    }
     .main {
         padding: 1rem 0;
     }
@@ -220,5 +217,10 @@ ul {
     .copyright,
     .github {
         padding-bottom: 1rem;
+    }
+}
+@media (max-width:610px) {
+    .nav-list {
+        flex-direction: column;
     }
 }
